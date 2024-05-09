@@ -112,9 +112,17 @@ export default function Technology() {
             <div className="swiper-container slider-6">
               <Swiper {...swiperOptions} className="swiper-wrapper">
                 <SwiperSlide>
-                  <img src="/assets/images/common/logo_tech_1.png" alt="" style={{
+                <img src="/assets/images/common/logo_tech_1.png" alt="" style={{
                         filter: 'brightness(0) invert(1) grayscale(100%) brightness(1000%)',
                         }} />
+
+                </SwiperSlide>
+                <SwiperSlide>
+                <img src="/assets/images/common/brand_10.png" alt="" style={{
+                        filter: 'brightness(0) invert(1) grayscale(100%) brightness(1000%)',
+                        }} />
+
+                        
                 </SwiperSlide>
               </Swiper>
               <div className="swiper-pagination pagination_slider-6" />

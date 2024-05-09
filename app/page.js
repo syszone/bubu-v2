@@ -17,6 +17,7 @@ import Project31 from "@/components/sections/Project31"
 import Project4 from "@/components/sections/Project4"
 import Project22 from "@/components/sections/Project1"
 import AboutBuBu from "@/components/sections/AboutBuBu"
+import Cta22 from "@/components/sections/Cta22"
 import Team1 from "@/components/sections/Team1"
 import Token1 from "@/components/sections/Token1"
 
@@ -49,7 +50,8 @@ export default function Home() {
                      
                     <Technology />
                     {/* <Roadmap /> */}
-
+                    <Partner2 />
+                    <Cta22 />
                 {/* <Pagetitle2 /> */}
                   {/* <Feature1 />   */}
                     <AboutBuBu/>
@@ -63,7 +65,7 @@ export default function Home() {
 
                      </div>
                 
-                <Partner2 />
+                
                 {/* <Cta21 /> */}
                 <Faqs1 />
                 {/* <Cta3 /> */}
