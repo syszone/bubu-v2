@@ -13,7 +13,7 @@ export default function Token2() {
                                     Statistics token
                                 </h2>
                                 <div className="total_token">
-                                    <h6>Total Supply: <span>1,000,000,000,000 (1 trillion)</span></h6>
+                                    <h6>Total Supply: <span>1,500,000,000,000 (1 trillion)</span></h6>
                                     <h6>Public sale: <span>$0.24</span></h6>
                                 </div>
                             </div>

@@ -19,17 +19,17 @@ export default function Footer1() {
                                     Contact us
                                 </h5>
                                 <ul className="widget-link contact">
-                                    <li>
+                                    {/* <li>
                                         <p>Address</p>
                                         <Link href="#">1901 Thornridge Cir. Shiloh, Hawaii 81063</Link>
                                     </li>
                                     <li>
                                         <p>Phone</p>
                                         <Link href="#">+33 7 00 55 57 60</Link>
-                                    </li>
+                                    </li> */}
                                     <li className="email">
-                                        <p>Email</p>
-                                        <Link href="#">risebot@support.com</Link>
+                                        <p>Telegram</p>
+                                        <Link href="#">r@support.com</Link>
                                     </li>
                                 </ul>
                             </div>

@@ -1692,12 +1692,14 @@ form button {
   }
 }
 
+ 
+
 .img_technology .coin.coin_14 {
   position: absolute;
   top: 290%;
   left: 15%;
-  animation: move9 5s infinite linear;
-  -webkit-animation: move9 5s infinite linear;
+  animation: move10 5s infinite linear;
+  -webkit-animation: move10 5s infinite linear;
 }
 
 @keyframes move10 {
@@ -7402,6 +7404,67 @@ form button {
     transform: translateY(0);
   }
 }
+
+@keyframes move6 {
+  0% {
+    transform: translate(0);
+  }
+  50% {
+    transform: translate(20px, 0);
+  }
+  100% {
+    transform: translate(0);
+  }
+}
+
+@keyframes move7 {
+  0% {
+    transform: translate(0);
+  }
+  50% {
+    transform: translate(0, -20px);
+  }
+  100% {
+    transform: translate(0);
+  }
+}
+
+@keyframes move8 {
+  0% {
+    transform: translate(0);
+  }
+  50% {
+    transform: translate(20px, -20px);
+  }
+  100% {
+    transform: translate(0);
+  }
+}
+
+@keyframes move9 {
+  0% {
+    transform: translate(0);
+  }
+  50% {
+    transform: translate(-30px, 30px);
+  }
+  100% {
+    transform: translate(0);
+  }
+}
+
+@keyframes move10 {
+  0% {
+    transform: translate(0);
+  }
+  50% {
+    transform: translate(10px, 10px);
+  }
+  100% {
+    transform: translate(0);
+  }
+}
+
 @keyframes myanimation {
   0% {
     width: 0;

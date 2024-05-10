@@ -17,7 +17,7 @@ export default function Cta22() {
                             <h3 className="title move5 icon icon_1" style={{ position: 'absolute', top: '40%', left: '-6%', transform: 'translate(-50%, -50%)', zIndex: '2', color: 'white' }}>
                                 BLOCKCHAIN
                             </h3>
-                            <img className="move5 icon icon_2" src="/assets/images/common/full-base-logo.png" alt="" style={{ position: 'absolute', top: '60%', left: '-5%', transform: 'translate(-50%, -50%)', zIndex: '2', }}/> 
+                            <img className="move4 icon icon_2" src="/assets/images/common/full-base-logo.png" alt="" style={{ position: 'absolute', top: '60%', left: '-5%', transform: 'translate(-50%, -50%)', zIndex: '2', }}/> 
                             {/* 
                             <img className="move5 icon icon_1" src="/assets/images/common/icon_cta.png" alt="" />
                             <img className="move5 icon icon_2" src="/assets/images/common/icon_cta_2.png" alt="" />

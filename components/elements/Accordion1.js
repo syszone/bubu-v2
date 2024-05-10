@@ -55,14 +55,14 @@ export default function Accordion1() {
                     </p>
                 </div>
 
-                <div className={isActive === 5 ? "flat-toggle active" : "flat-toggle"}>
+                {/* <div className={isActive === 5 ? "flat-toggle active" : "flat-toggle"}>
                     <div className={isActive === 5 ? "h7 toggle-title active" : "h7 toggle-title"} onClick={() => handleClick(5)}>
                         <span className="icon-Icon">
                         </span>
                         <span>What is ownership in the metaverse?</span>
                     </div>
                     <p className="toggle-content" style={{ display: `${isActive === 5 ? "block" : "none"}` }}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec luctus eleifend egestas. Duis eget dictum purus. Fusce est mi, imperdiet porta neque malesuada, blandit scelerisque lectus. Maecenas vel lobortis risus. Donec ornare urna quis libero euismod, ac fermentum diam blandit. Nunc dapibus tempor lacus, vel lacinia enim efficitur eu</p>
-                </div>
+                </div> */}
 
                 <div className={isActive === 6 ? "flat-toggle active" : "flat-toggle"}>
                     <div className={isActive === 6 ? "h7 toggle-title active" : "h7 toggle-title"} onClick={() => handleClick(6)}>
